@@ -3,7 +3,7 @@
 <xsl:template match="/"> 
     <html> 
         <body> 
-            <h1 align="center">Students' Basic Details</h1> 
+            <h1 align="center">Survey Results</h1> 
             <table border="3" align="center" > 
                 <tr> 
                     <th>Region</th> 
